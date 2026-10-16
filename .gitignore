@@ -1,0 +1,11 @@
+# GPS recordings
+BUFTEST.TXT
+GPSLOG*.TXT
+TESTGPS.TXT
+
+# Generated GPS maps
+gps_route.html
+
+# Python temporary files
+__pycache__/
+*.pyc
